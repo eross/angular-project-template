@@ -6,4 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title = 'app';
 }
+
+//console.debug("hello");
+//console.debug("jQuery "+ (jQuery ? $().jquery : "NOT") +" loaded");
